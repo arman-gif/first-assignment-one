@@ -1,0 +1,87 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Fira Sans, sans-serif;
+}
+
+body{
+  background: #f1f1f3;
+  color: #222;
+}
+
+/* nav section  */
+.nav{
+  display: flex;
+  justify-content: space-between;
+  padding: 30px 70px;
+  background: #f1f1f3;
+  align-items: center;
+}
+
+.logo{
+  font-size: 30px;
+  line-height: 40px;
+  font-weight: bold;
+  color: #0E0E0E;
+}
+
+.login-btn{
+  padding: 15px 30px;
+  border: 1px solid #006A50;
+  background: white;
+  border-radius: 6px;
+  cursor: pointer;
+  color: #006A50;
+  font-size: 18px;
+  line-height: 28px;
+  font-weight: 600;
+}
+
+/* banner section  */
+.banner{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 100px 50px;
+  background: #C6E4D6;
+  border-radius: 24px;
+  margin: 20px auto;
+  width: 90%;
+}
+
+.banner h4{
+  color: #0E0E0E;
+  opacity: 0.5;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 30px;
+}
+
+.banner h1{
+  font-size: 50px;
+  font-weight: 700;
+  line-height: 60px;
+  color: #0E0E0E;
+  margin: 20px 0px;
+}
+
+.explore-btn{
+  background: #006A50;
+  padding: 16px 32px;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  line-height: 25px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.banner-img img{
+  width: 400px;
+}
+
+
+
