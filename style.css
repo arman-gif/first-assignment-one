@@ -557,3 +557,25 @@ select:focus {
   font-weight: 600;
 }
 
+/* footer section  */
+.footer {
+  background-color: #fff;
+  text-align: center;
+  padding: 50px 0px;
+}
+
+.footer h2 {
+  color: #0E0E0E;
+  font-size: 25px;
+  line-height: 35px;
+  font-weight: 700;
+}
+
+.footer hr {
+  width: 70%;
+  margin: 30px auto;
+}
+
+.social img {
+  margin-left: 10px;
+}
