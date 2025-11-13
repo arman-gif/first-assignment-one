@@ -503,4 +503,57 @@ select:focus {
   background-color: #008a45;
 }
 
+/* subscribe section  */
+.subscribe-section{
+  width: 90%;
+  margin: 50px auto;
+  background-color: #C6E4D6;
+  padding: 70px 230px;
+  border-radius: 20px;
+  text-align: center;
+}
+
+.subscribe-section h2 {
+  color: #0E0E0E;
+  font-size: 35px;
+  line-height: 45px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.subscribe-section p {
+  color: rgba(14, 14, 14, 0.7);
+  font-size: 14px;
+  line-height: 24px;
+  font-weight: 400;
+}
+
+.form {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0px;
+}
+
+.form input {
+  padding: 16px 34px;
+  background-color: #fff;
+  color: rgba(14, 14, 14, 0.3);
+  font-size: 14px;
+  line-height: 24px;
+  font-weight: 400;
+  border-radius: 6px 0px 0px 6px;
+  border: none;
+  width: 80%;
+}
+
+.form button {
+  background-color: #006A50;
+  color: #fff;
+  padding: 16px 34px;
+  border-radius: 0px 6px 6px 0px;
+  border: none;
+  font-size: 16px;
+  line-height: 26px;
+  font-weight: 600;
+}
 
